@@ -1,0 +1,10 @@
+{
+    "view": [
+        {
+            "fkidcompany":1,
+            "fkidtype": 1,
+            "companyName": "exemplo",
+            "partnerTapyName": "exemplo"
+        }
+    ]
+}
